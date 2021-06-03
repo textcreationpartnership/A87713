@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions agreed upon by the estates of the kingdome of Scotland, to be sent to the Parliament of England, concerning the Kings Majesty and the Covenant, and the bringing of His Majesty to his palace at White-hall. And the raising of an army in the said kingdome, under the command of the Earl of Callender, who is now appointed generall for their new designe. Also the copy of a letter from the west of England, declaring the proceedings of Col. Fortescue (Governour of Pendennis Castle in Cornwall) against Colonell Sir Hardresse Waller, and his denyall to surrender up the castle. Together with strange newes from Plymouth, and the proceedings of a party in the Isle of Wight, touching the late rising of the London prentices.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87713</idno><idno type="EEBO-CITATION">99865448</idno>
+  <idno type="VID">117689</idno>
+  <idno type="EEBO-PROQUEST">2240905358</idno>
+  
+            <idno type="STC">Wing K4</idno>
+            <idno type="STC">Thomason E435_43</idno>
+            <idno type="STC">ESTC R206276</idno>
+            <idno type="PROQUEST">99865448</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865448e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117689)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions agreed upon by the estates of the kingdome of Scotland, to be sent to the Parliament of England, concerning the Kings Majesty and the Covenant, and the bringing of His Majesty to his palace at White-hall. And the raising of an army in the said kingdome, under the command of the Earl of Callender, who is now appointed generall for their new designe. Also the copy of a letter from the west of England, declaring the proceedings of Col. Fortescue (Governour of Pendennis Castle in Cornwall) against Colonell Sir Hardresse Waller, and his denyall to surrender up the castle. Together with strange newes from Plymouth, and the proceedings of a party in the Isle of Wight, touching the late rising of the London prentices.</title>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Army --  Early works to 1800.</term>
+               <term type="uniform_title">Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117689:1"/>
+            <p>PROPOSITIONS AGREED Upon by the Estates of the Kingdome of SCOTLAND, to be sent to the Parliament of <hi>England,</hi> concerning <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Kings Majesty and the Cove<g ref="char:EOLhyphen"/>nant, and the bringing of His Majesty to His Palace at White-Hall.</p>
+            <p>And the raising of an Army in the said Kingdome, under the command of the Earl of <hi>Callender,</hi> who is now appointed Generall for their new Designe.</p>
+            <p>Also the Copy of a Letter from the West of <hi>England,</hi> declaring the proceedings of Col. <hi>Fortescue</hi> (Governour of <hi>Pendennis Castle</hi> in <hi>Cornwall</hi>) against Colonell Sir <hi>Hardresse Waller,</hi> and his denyall to surrender up the Castle.</p>
+            <p>Together with strange newes from <hi>Plymouth,</hi> and the proceedings of a party In the Isle of Wight, touching the late rising of the London Prentices.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by JOHN CLOWES, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117689:2"/>
+            <pb n="1" facs="tcp:117689:2"/>
+            <head>A LETTER SENT From the Kings Majesties Court at <hi>Caris<g ref="char:EOLhyphen"/>brooke</hi> Castle in the <hi>Isle of Wight,</hi> touch<g ref="char:EOLhyphen"/>ing the proceedings of the Parliament and Army,</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE state of things here are in a good conditi<g ref="char:EOLhyphen"/>on, and quiet, the Malignants seeme to stand in greater awe of the Par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iament then ever, as ap<g ref="char:EOLhyphen"/>pears by their not scandalizing the Parliament and Army, with such opprobious language, and notorious fictions and lyes, as heretofore they were wont to infect this Island with, to the great dishonour of the wel-af<g ref="char:EOLhyphen"/>fected, and incouragement of the discontented Party; onely they expresse some <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opes that the wind will <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, as they say, and that once again they shall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave occasion, to use their en<g ref="char:EOLhyphen"/>deavour, in revenging themselve upon the Parliament, the
+<pb n="2" facs="tcp:117689:3"/> Army, and those that do adhere unto them. When the news came first hither, that the Apprentices were risen in a tumult, and that a party of them had gotten Arms and sei<g ref="char:EOLhyphen"/>zed on the City gates, with an intent to disarm the well affe<g ref="char:EOLhyphen"/>cted of the City, and to fall upon his Excellency the Lord Generals Forces, and so to possesse themselves with the strength of the Town, this so awakened them, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evived fainting and decaying spirits, that they were almost ready to shew themselves in their proper colours. But in the spice of lesse then a day, by that time the newes past for ce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tain tho<g ref="char:EOLhyphen"/>rough the Island, newes was brought that his Excellencies Forces had entred the City, routed and disarmd the muti<g ref="char:EOLhyphen"/>neers, taken and app<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hended many of them, throughly quiet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and setled the disturbances and tumults over all the City, this was such a co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ler to them, and strook them in such a melancholy dump, that ever since, they sca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce dare to utter a word, but for fear begin to pull in their horns again, and shew themselves as gentle as tame birds pend up in a cage.</p>
+            <p>The Bowling alley made for His Majesties use is altoge<g ref="char:EOLhyphen"/>ther finished, it is a very compleat one, and pleaseth the King exceeding well, the Bowls being brought thither, His Maje<g ref="char:EOLhyphen"/>sty was very merry at play with Collonel Hammond our Governour, and is very free in his expressions to the Gover<g ref="char:EOLhyphen"/>nour and other Officers, but appears well pleased with His attendants and other accommodations.</p>
+            <p>Also, His Majesty being very merry at play with Collo<g ref="char:EOLhyphen"/>nel Hammond the Governour, Major Cromwell, Collonel H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rbett, Mr. Mildemay and others, His Majestie expressed himself very freely unto them, and His Majestie was pleased to say, that we are fools, and do not play our game well, and demanded▪ saying what are ye afraid of? Also, he further said, that an Armie of twentie thousand resolute men in Eng<g ref="char:EOLhyphen"/>land, with this Island, and the command of the shipping at
+<pb n="3" facs="tcp:117689:3"/> Sea, may oppose all the kingdomes in the world, neither need they fear any conspiracie at home, nor any incursion or invasion from abroad, but might themselves enjoy the grea<g ref="char:EOLhyphen"/>test peace and tranquilitie of any Nation in the world, giving very good reasons for it, which I will over passe, and he al<g ref="char:EOLhyphen"/>so said, that if he had our game to play, he would not have plaid such a p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ece of play as we have done, but hee would have made other and better improvement of it.</p>
+            <p>His Majestie sometimes in a merry way, speaks in dislike of the Marquesse of Argile and his partie in Scotland, also it seems that His Majestie hath no good opiion of the Scottish Nation, neither reposeth any great trust in them, nor expects any great fidelity from them, for in his merrie discourse, his Majestie is pleased to say that they are Traitours, and the Scots cowa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds. When <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e discourses of the condition and state of things, and what is or may be done, His Majestie speaks eatraordinary warily, and with a great deal of discre<g ref="char:EOLhyphen"/>tion, and still gives solid and well graunded reasons for what he speaks, and it is verily supposed His Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stie is in great hopes that he shall be admitted to come to His Parliament, for sometimes he expresses as much. Also it is thought, that this conceit of His is the cause that he is now so much mer<g ref="char:EOLhyphen"/>rier then he formerly hath been.</p>
+            <p>Also, His Majestie enquires much after the proceedings of the Parliament of Scotland, and seems greatly to mislike the the prevalencie of the Clergie under the Presbyteriall Go<g ref="char:EOLhyphen"/>vernment, as if they carried with them a more uncontrouled and unlimited power and jurisdiction, then was lately exer<g ref="char:EOLhyphen"/>cised by the Prelates of England. It hath been lately repor<g ref="char:EOLhyphen"/>ted here, that the Governour of Plimouth will not deliver up the Town to Sir Hardresse Waller, whom it is said was orde<g ref="char:EOLhyphen"/>red by the Generall to have the command of the said Town, but we take it to be but the sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ech of those that would have it so, rather then for any reall truth.</p>
+            <pb n="4" facs="tcp:117689:4"/>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is likewise reported▪ that there is a Treaty in France with the Queen of Englands Agent, and some of that Kingdome, for the advancing of monies upon the credit of the Prince of Wales his person. This is the most observeable newes that for the present I can acquaint you with; the next returne you shall hear further, and till then and ever</p>
+            <closer>
+               <dateline>Carisbrooke Castle, <date>13, April 1648</date>
+               </dateline>
+               <signed>I remain yours, C. K.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>By a Letter from <hi>Wales</hi> it is certified as followeth.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MAjor Gen. Laughorns men are orderly, and willing to disband, Col. Poyer increaseth his number and his insolence. It is reported that a Fri<g ref="char:EOLhyphen"/>got is come into Milford Haven, and designed for France; but this report doth carry but little probability, howsoever it seems that the Frigot hath got a second to assist it, by meanes whereof, they often adventure forth, and are coasting up &amp; down to discover any Marchants ships, and make prize of all they take, Col. Poyer hath newly forti<g ref="char:EOLhyphen"/>fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Castle, and brought into it great store of provision and ammunition, and other things ne<g ref="char:EOLhyphen"/>cessary both for life and death.</p>
+            <p>Col. Horton is supposed to be very neere Pem<g ref="char:EOLhyphen"/>broke,
+<pb n="5" facs="tcp:117689:4"/> and that our Forces are ingaged with him, it is reported that the Parliament hath commanded a great party of Horse and Foot to reduce the said Castle, this report being spread over all the Coun<g ref="char:EOLhyphen"/>try, caused Poyer, as it is said, to thrust to much pro<g ref="char:EOLhyphen"/>visions into the Castle, as will maintain a siege for above one year.</p>
+            <p>Letters from Pendennis in Cornwal say, That Sir Hardress Waller, Governour of the said Castle, being commanded from thence for some other service, according to order, left the government of the Castle to another, but returning thither again, he gave the Governour to understand, that he had an order from his Excellency to have the govern<g ref="char:EOLhyphen"/>ment of that Castle again, but the Governour told him, that he would not deliver <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Castle with<g ref="char:EOLhyphen"/>out order from the Parliament. Whereupon Sir Hardress Waller prepared to besiege him, upon which col Forte<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ue, the Govetnour, desired him to save the effusion of bloud, and to wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hdraw ten miles off the Castle, till he could send to the parl, and know their intentions.</p>
+            <p>The Fort Royal here was in great danger to be surprized on Thursday last, by a party of the Ca<g ref="char:EOLhyphen"/>valry, but miraculously prevented, of which more by the next.</p>
+            <closer>
+               <dateline>Brist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l <date>14. April, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:117689:5"/>
+            <head>The copy of a Letter from Edinborough.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Committe of Danger declared their opi<g ref="char:EOLhyphen"/>nion on Saturday in the Afternoon, That they found the breach of Covenant by England, as they pretend, to consist in 7. Articles, but the Report of the Remedies▪ or whither, or not, Warre shall fol<g ref="char:EOLhyphen"/>low, is thought to be resolved upon. F or here is great preparations for war, and an Army is raising, to be conducted and commanded by the Earle of Calender, who is appointed to be General. Divers Proposals and Demands are agreed upon, to bee sent to the Parliament of England, viz. 1. Concer<g ref="char:EOLhyphen"/>ning the solemn League and Covenant. 2. concer<g ref="char:EOLhyphen"/>ning the Kings Majesty, and the bringing of him to his Palace at Westminster. And 3. concerning a Treaty with his Majesty.</p>
+            <closer>
+               <dateline>Edinburgh <date>13. of April 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
